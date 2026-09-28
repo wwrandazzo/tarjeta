@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#tarjeta {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    display: inline-block;
+}
